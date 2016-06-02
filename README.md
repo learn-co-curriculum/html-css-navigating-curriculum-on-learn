@@ -50,13 +50,9 @@ You'll know if a lesson on Learn is a lab by the actions the right column asks y
 
 #### READMEs
 
-READMEs are lessons that only have instructional content. They are designed to teach you something without challenging you to practice or implement the concept directly. The lesson you are currently reading is a README.
+READMEs are lessons that only have instructional content. They are designed to teach you something without challenging you to practice or implement the concept directly. The lesson you are currently reading is a README. Many of the READMEs in this track include both text and video. We encourage you to both watch the videos and read the text. 
 
 READMEs provide context and exposition on a topic by breaking concepts down. READMEs are how you learn enough to solve a lab.
-
-As you can probably tell already, Learn is a big fan of the written word. Some READMEs have videos, but our expectation is that you also do the reading. The video augments the content; it does not replace it.
-
-You're going to have to do a lot of reading on Learn. We know other platforms make heavy use of 3-6 minute videos, and we're going to continue to experiment with that medium. For now, the majority of the content on Learn is text. We believe that with all the details and syntax involved in code – and since being a professional programmer is basically reading and writing text all day – the best way to learn to code is through reading and writing code, not watching videos.
 
 Some READMEs also contain brief interactive elements such as quizzes or little in-browser coding challenges.
 
