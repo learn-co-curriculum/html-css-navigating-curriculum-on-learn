@@ -14,8 +14,6 @@ Before you start, let's just get a little more familiar with how Learn works. In
 
 Let's start by talking about the different parts of the curriculum on Learn.
 
-Let's start by talking about the different parts of the curriculum on Learn.
-
 ## All About Lessons
 
 The individual pieces of curriculum on Learn are called "lessons."
